@@ -1,5 +1,6 @@
 # Artificial Intelligence Nanodegree
-test
+hello
+hello2
 ## Introductory Project: Diagonal Sudoku Solver
 
 # Question 1 (Naked Twins)
