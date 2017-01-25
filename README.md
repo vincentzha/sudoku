@@ -1,15 +1,13 @@
 # Artificial Intelligence Nanodegree
-ttttt
-ttttt
 ## Introductory Project: Diagonal Sudoku Solver
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
-A: *Student should provide answer here*
+A: I check through each unit, if in any unit there is a twin, I will loop throught the boxes in th unit and remove the twin digits from other boxes in the same unit, which implements the constrant propagation.
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: *Student should provide answer here*
+A: I added 2 units which are the 2 diagnoses, then add the 2 units to the unitlist, so the agent will add these 2 new constraints when solving the issue. The constraints will propagate to peers in the same unit, and finally solve the problem
 
 ### Install
 
